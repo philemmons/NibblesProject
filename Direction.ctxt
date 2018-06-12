@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=xchange\ ychange
+comment0.target=Direction(int,\ int)
+comment1.target=int\ getXchange()
+comment2.target=int\ getYchange()
+comment3.params=newDirection
+comment3.target=boolean\ isOpposite(Direction)
+comment4.target=String\ toString()
+numComments=5

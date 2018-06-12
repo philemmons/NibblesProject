@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=cells\ size_ofcells\ anApple\ aBorder\ aCanvas
+comment0.target=Snake(int,\ int,\ FilledRect,\ FramedRect,\ DrawingCanvas)
+comment1.target=void\ stretch()
+comment2.target=void\ shrink()
+comment3.target=void\ run()
+comment4.params=dir
+comment4.target=void\ setDirection(Direction)
+comment5.target=boolean\ outOfBounds()
+comment6.target=boolean\ ateSelf()
+comment7.target=void\ reset()
+numComments=8
